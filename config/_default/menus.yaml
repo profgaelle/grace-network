@@ -1,0 +1,22 @@
+# Navigation Links
+# The weight parameter defines the order that the links appear in.
+
+main:
+  - name: About
+    url: project/grace
+    weight: 10
+  - name: News
+    url: post
+    weight: 20
+  - name: People
+    url: people
+    weight: 30
+  - name: Events
+    url: event
+    weight: 40
+  - name: Publications
+    url: publication
+    weight: 50
+  - name: Join the network
+    url: contact
+    weight: 60
