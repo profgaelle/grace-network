@@ -4,7 +4,7 @@ summary: Background literature for GRACE across behavioural science, creative pr
 date: 2026-11-23
 ---
 
-Key background reading for the GRACE network, grouped by theme. GRACE's own outputs will be listed here as they are published.
+Key background reading for the GRACE network, grouped by theme.
 
 ## Uncertainty and resilience
 
