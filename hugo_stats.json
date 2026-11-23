@@ -275,15 +275,18 @@
     "ids": [
       "approach",
       "container-publications",
+      "creative-practice-and-leadership",
       "description",
       "funding",
       "how-the-workshop-works",
       "inputEmail",
       "inputMessage",
       "inputName",
+      "interactivity-and-creative-cognition",
       "involved",
       "modal",
       "modal-error",
+      "movement-and-computer-vision",
       "navbar-content",
       "navbar-main",
       "opening-provocations",
@@ -306,6 +309,7 @@
       "section-people",
       "talk_list",
       "top",
+      "uncertainty-and-resilience",
       "why",
       "workshop-report-and-the-grace-network"
     ]

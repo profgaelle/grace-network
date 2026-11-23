@@ -14,8 +14,8 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Bibliography
+    url: bibliography
     weight: 50
   - name: Join the network
     url: contact
