@@ -256,3 +256,8 @@ a:hover {
   text-decoration: underline;
   text-decoration-color: var(--coral-pink);
 }
+
+/* GRACE people spacing: more room between rows on the People page */
+.people-person {
+  margin-bottom: 3rem;
+}
