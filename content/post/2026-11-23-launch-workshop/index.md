@@ -6,15 +6,13 @@ authors:
   - gaelle-vallee-tourangeau
 tags: [GRACE, workshop, uncertainty, resilience]
 image:
-  caption: 'Image: sketchbook page by Gaëlle Vallée-Tourangeau'
+  caption: 'Participants at the GRACE launch workshop, 6 November 2026'
   focal_point: Center
 ---
 
 On 6 November 2026, GRACE held its launch workshop online. The call for participants drew 42 registrations from 13 countries across four continents, and 28 people took part on the day.
 
 Participants came from decision-making research, behavioural economics, clinical psychology, neuroscience and cognitive science, organisational behaviour and international business, dance, coaching and computer vision, as well as from industry. Twenty-two stayed for the full afternoon of small-group discussions and plenary.
-
-{{< figure src="workshop-screenshot.jpg" caption="Participants at the GRACE launch workshop, 6 November 2026." alt="Screenshot of the online workshop showing participants in a video-call grid" >}}
 
 ## Three questions, three provocations
 
